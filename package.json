@@ -1,0 +1,26 @@
+{
+  "name": "ember-cli-what-input",
+  "version": "1.0.0",
+  "description": "Ember CLI wrapper for what-input",
+  "keywords": [
+    "ember-addon"
+  ],
+  "license": "MIT",
+  "author": "Marius Rumpf <marius@mariusrumpf.de>",
+  "bugs": {
+    "url": "https://github.com/MariusRumpf/ember-cli-what-input/issues"
+  },
+  "homepage": "https://github.com/MariusRumpf/ember-cli-what-input#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariusRumpf/ember-cli-what-input.git"
+  },
+  "dependencies": {
+    "broccoli-funnel": "^2.0.1",
+    "broccoli-merge-trees": "^2.0.0",
+    "what-input": "^5.0.2"
+  },
+  "engines": {
+    "node": ">= 4.5.0"
+  }
+}
